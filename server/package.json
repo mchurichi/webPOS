@@ -1,5 +1,5 @@
 {
-  "name": "Fucsia",
+  "name": "webPOS-server",
   "version": "0.0.0",
   "description": "",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.12.4",
     "express": "^4.12.4",
